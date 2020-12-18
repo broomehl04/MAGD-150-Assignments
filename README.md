@@ -12,7 +12,7 @@ lab 4
 
 
 lab 6
-[Organization. Adhere to theme of retro games and define and call three of your own functions.]
+[Organization. Adhere to theme of retro games and define and call three of your own functions]
 (https://uwwtw.instructure.com/courses/300792/assignments/2609472?module_item_id=7741815)
 
 
