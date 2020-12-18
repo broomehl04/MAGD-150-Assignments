@@ -2,8 +2,7 @@
 ## Project Explanations
 
 lab 2
-[Color Composition. Adhere to space theme and use 4 different colors and 3 different color modes]
-(https://uwwtw.instructure.com/courses/300792/assignments/2520033)
+[Color Composition. Adhere to space theme and use 4 different colors and 3 different color modes](https://uwwtw.instructure.com/courses/300792/assignments/2520033)
 
 
 lab 4
